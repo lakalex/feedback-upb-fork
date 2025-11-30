@@ -1,0 +1,3146 @@
+{
+  "attempts": [],
+  "totalattempts": 20,
+  "anonattempts": [
+    {
+      "id": 6001,
+      "courseid": 139,
+      "number": 1,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "8",
+          "rawval": "8"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "10",
+          "rawval": "10"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 1",
+          "rawval": "Comentariu test 1"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 1",
+          "rawval": "Comentariu test 1"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 1",
+          "rawval": "Comentariu test 1"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 1",
+          "rawval": "Comentariu test 1"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 1",
+          "rawval": "Comentariu test 1"
+        }
+      ]
+    },
+    {
+      "id": 6002,
+      "courseid": 139,
+      "number": 2,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "9",
+          "rawval": "9"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "8",
+          "rawval": "8"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 2",
+          "rawval": "Comentariu test 2"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 2",
+          "rawval": "Comentariu test 2"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 2",
+          "rawval": "Comentariu test 2"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 2",
+          "rawval": "Comentariu test 2"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 2",
+          "rawval": "Comentariu test 2"
+        }
+      ]
+    },
+    {
+      "id": 6003,
+      "courseid": 139,
+      "number": 3,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "9",
+          "rawval": "9"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "8",
+          "rawval": "8"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 3",
+          "rawval": "Comentariu test 3"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 3",
+          "rawval": "Comentariu test 3"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 3",
+          "rawval": "Comentariu test 3"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 3",
+          "rawval": "Comentariu test 3"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 3",
+          "rawval": "Comentariu test 3"
+        }
+      ]
+    },
+    {
+      "id": 6004,
+      "courseid": 139,
+      "number": 4,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "6",
+          "rawval": "6"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "9",
+          "rawval": "9"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 4",
+          "rawval": "Comentariu test 4"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 4",
+          "rawval": "Comentariu test 4"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 4",
+          "rawval": "Comentariu test 4"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 4",
+          "rawval": "Comentariu test 4"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 4",
+          "rawval": "Comentariu test 4"
+        }
+      ]
+    },
+    {
+      "id": 6005,
+      "courseid": 139,
+      "number": 5,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "10",
+          "rawval": "10"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 5",
+          "rawval": "Comentariu test 5"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 5",
+          "rawval": "Comentariu test 5"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 5",
+          "rawval": "Comentariu test 5"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 5",
+          "rawval": "Comentariu test 5"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 5",
+          "rawval": "Comentariu test 5"
+        }
+      ]
+    },
+    {
+      "id": 6006,
+      "courseid": 139,
+      "number": 6,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "7",
+          "rawval": "7"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 6",
+          "rawval": "Comentariu test 6"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 6",
+          "rawval": "Comentariu test 6"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 6",
+          "rawval": "Comentariu test 6"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 6",
+          "rawval": "Comentariu test 6"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 6",
+          "rawval": "Comentariu test 6"
+        }
+      ]
+    },
+    {
+      "id": 6007,
+      "courseid": 139,
+      "number": 7,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "7",
+          "rawval": "7"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 7",
+          "rawval": "Comentariu test 7"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 7",
+          "rawval": "Comentariu test 7"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 7",
+          "rawval": "Comentariu test 7"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 7",
+          "rawval": "Comentariu test 7"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 7",
+          "rawval": "Comentariu test 7"
+        }
+      ]
+    },
+    {
+      "id": 6008,
+      "courseid": 139,
+      "number": 8,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "8",
+          "rawval": "8"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "8",
+          "rawval": "8"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 8",
+          "rawval": "Comentariu test 8"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 8",
+          "rawval": "Comentariu test 8"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 8",
+          "rawval": "Comentariu test 8"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 8",
+          "rawval": "Comentariu test 8"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 8",
+          "rawval": "Comentariu test 8"
+        }
+      ]
+    },
+    {
+      "id": 6009,
+      "courseid": 139,
+      "number": 9,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "7",
+          "rawval": "7"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "8",
+          "rawval": "8"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 9",
+          "rawval": "Comentariu test 9"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 9",
+          "rawval": "Comentariu test 9"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 9",
+          "rawval": "Comentariu test 9"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 9",
+          "rawval": "Comentariu test 9"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 9",
+          "rawval": "Comentariu test 9"
+        }
+      ]
+    },
+    {
+      "id": 6010,
+      "courseid": 139,
+      "number": 10,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "6",
+          "rawval": "6"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "6",
+          "rawval": "6"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 10",
+          "rawval": "Comentariu test 10"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 10",
+          "rawval": "Comentariu test 10"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 10",
+          "rawval": "Comentariu test 10"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 10",
+          "rawval": "Comentariu test 10"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 10",
+          "rawval": "Comentariu test 10"
+        }
+      ]
+    },
+    {
+      "id": 6011,
+      "courseid": 139,
+      "number": 11,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "6",
+          "rawval": "6"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 11",
+          "rawval": "Comentariu test 11"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 11",
+          "rawval": "Comentariu test 11"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 11",
+          "rawval": "Comentariu test 11"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 11",
+          "rawval": "Comentariu test 11"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 11",
+          "rawval": "Comentariu test 11"
+        }
+      ]
+    },
+    {
+      "id": 6012,
+      "courseid": 139,
+      "number": 12,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "7",
+          "rawval": "7"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "9",
+          "rawval": "9"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 12",
+          "rawval": "Comentariu test 12"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 12",
+          "rawval": "Comentariu test 12"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 12",
+          "rawval": "Comentariu test 12"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 12",
+          "rawval": "Comentariu test 12"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 12",
+          "rawval": "Comentariu test 12"
+        }
+      ]
+    },
+    {
+      "id": 6013,
+      "courseid": 139,
+      "number": 13,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "8",
+          "rawval": "8"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "10",
+          "rawval": "10"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 13",
+          "rawval": "Comentariu test 13"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 13",
+          "rawval": "Comentariu test 13"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 13",
+          "rawval": "Comentariu test 13"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 13",
+          "rawval": "Comentariu test 13"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 13",
+          "rawval": "Comentariu test 13"
+        }
+      ]
+    },
+    {
+      "id": 6014,
+      "courseid": 139,
+      "number": 14,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "7",
+          "rawval": "7"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "8",
+          "rawval": "8"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 14",
+          "rawval": "Comentariu test 14"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 14",
+          "rawval": "Comentariu test 14"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 14",
+          "rawval": "Comentariu test 14"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 14",
+          "rawval": "Comentariu test 14"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 14",
+          "rawval": "Comentariu test 14"
+        }
+      ]
+    },
+    {
+      "id": 6015,
+      "courseid": 139,
+      "number": 15,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "8",
+          "rawval": "8"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 15",
+          "rawval": "Comentariu test 15"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 15",
+          "rawval": "Comentariu test 15"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 15",
+          "rawval": "Comentariu test 15"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 15",
+          "rawval": "Comentariu test 15"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 15",
+          "rawval": "Comentariu test 15"
+        }
+      ]
+    },
+    {
+      "id": 6016,
+      "courseid": 139,
+      "number": 16,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "8",
+          "rawval": "8"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "6",
+          "rawval": "6"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 16",
+          "rawval": "Comentariu test 16"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 16",
+          "rawval": "Comentariu test 16"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 16",
+          "rawval": "Comentariu test 16"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 16",
+          "rawval": "Comentariu test 16"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 16",
+          "rawval": "Comentariu test 16"
+        }
+      ]
+    },
+    {
+      "id": 6017,
+      "courseid": 139,
+      "number": 17,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "6",
+          "rawval": "6"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "7",
+          "rawval": "7"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 17",
+          "rawval": "Comentariu test 17"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 17",
+          "rawval": "Comentariu test 17"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 17",
+          "rawval": "Comentariu test 17"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 17",
+          "rawval": "Comentariu test 17"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 17",
+          "rawval": "Comentariu test 17"
+        }
+      ]
+    },
+    {
+      "id": 6018,
+      "courseid": 139,
+      "number": 18,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 18",
+          "rawval": "Comentariu test 18"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 18",
+          "rawval": "Comentariu test 18"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 18",
+          "rawval": "Comentariu test 18"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 18",
+          "rawval": "Comentariu test 18"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 18",
+          "rawval": "Comentariu test 18"
+        }
+      ]
+    },
+    {
+      "id": 6019,
+      "courseid": 139,
+      "number": 19,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "9",
+          "rawval": "9"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "10",
+          "rawval": "10"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 19",
+          "rawval": "Comentariu test 19"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 19",
+          "rawval": "Comentariu test 19"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 19",
+          "rawval": "Comentariu test 19"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 19",
+          "rawval": "Comentariu test 19"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 19",
+          "rawval": "Comentariu test 19"
+        }
+      ]
+    },
+    {
+      "id": 6020,
+      "courseid": 139,
+      "number": 20,
+      "responses": [
+        {
+          "id": 1,
+          "name": "Subject",
+          "printval": "Materia Test 139",
+          "rawval": "Materia Test 139"
+        },
+        {
+          "id": 2,
+          "name": "Teacher",
+          "printval": "Profesor Test",
+          "rawval": "Profesor Test"
+        },
+        {
+          "id": 3,
+          "name": "Laboratory/seminar/project ...",
+          "printval": "Asistent Test",
+          "rawval": "Asistent Test"
+        },
+        {
+          "id": 4,
+          "name": "Evaluarea dumneavoastr\u0103 general\u0103",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 5,
+          "name": "Care este nota la care va asteptati",
+          "printval": "9",
+          "rawval": "9"
+        },
+        {
+          "id": 6,
+          "name": "Incarcarea generala",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 7,
+          "name": "Dotarea (locatie",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 8,
+          "name": "Numarul aproximativ de activitati",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 9,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 10,
+          "name": "Metoda de expunere",
+          "printval": "5",
+          "rawval": "5"
+        },
+        {
+          "id": 11,
+          "name": "Cursul a stimulat discutiile",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 12,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 13,
+          "name": "Materialele didactice puse la dispozitie sunt suficiente pentru intelegerea cursului",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 14,
+          "name": "Cadrul didactic st\u0103p\u00e2ne\u0219te bine domeniul",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 15,
+          "name": "sprijinit activitatea individuala",
+          "printval": "4",
+          "rawval": "4"
+        },
+        {
+          "id": 16,
+          "name": "Aplicatiile au stimulat discutiile",
+          "printval": "1",
+          "rawval": "1"
+        },
+        {
+          "id": 17,
+          "name": "Comportamentul cadrului didactic fa\u021b\u0103 de studen\u021bi",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 18,
+          "name": "suficiente pentru intelegerea aplicatiilor",
+          "printval": "2",
+          "rawval": "2"
+        },
+        {
+          "id": 19,
+          "name": "Estimati numarul mediu de ore",
+          "printval": "6",
+          "rawval": "6"
+        },
+        {
+          "id": 20,
+          "name": "dificultatea temelor",
+          "printval": "Comentariu test 20",
+          "rawval": "Comentariu test 20"
+        },
+        {
+          "id": 21,
+          "name": "ajutat la intelegerea materiei",
+          "printval": "3",
+          "rawval": "3"
+        },
+        {
+          "id": 22,
+          "name": "aspectele pozitive",
+          "printval": "Comentariu test 20",
+          "rawval": "Comentariu test 20"
+        },
+        {
+          "id": 23,
+          "name": "trebuie imbunatatit",
+          "printval": "Comentariu test 20",
+          "rawval": "Comentariu test 20"
+        },
+        {
+          "id": 24,
+          "name": "dificultatea principala",
+          "printval": "Comentariu test 20",
+          "rawval": "Comentariu test 20"
+        },
+        {
+          "id": 25,
+          "name": "Alte comentarii",
+          "printval": "Comentariu test 20",
+          "rawval": "Comentariu test 20"
+        }
+      ]
+    }
+  ]
+}
