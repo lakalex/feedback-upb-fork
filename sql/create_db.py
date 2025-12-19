@@ -14,7 +14,7 @@ if os.path.exists(DB_NAME):
 
 try:
     conn = sqlite3.connect(DB_NAME)
-    with open(SQL_FILE, 'r', encoding='utf-8') as f:
+    with open(SQL_FILE, "r", encoding="utf-8") as f:
         sql_script = f.read()
         conn.executescript(sql_script)
     print(f"Baza de date: {DB_NAME} a fost creata")
